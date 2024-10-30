@@ -1,4 +1,4 @@
-# Pacman_Project
+# Packman_Project
 <img width="1833" alt="image" src="https://github.com/user-attachments/assets/888bd5aa-7f23-425e-809b-7f0ced951e43">
 <img width="1595" alt="image" src="https://github.com/user-attachments/assets/f6d00f92-93dc-49c2-8290-53b99c9fc632">
 <img width="1307" alt="image" src="https://github.com/user-attachments/assets/48460e7a-2844-43da-aa9e-ff8b8223308e">
