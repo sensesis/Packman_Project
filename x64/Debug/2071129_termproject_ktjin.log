@@ -1,0 +1,6 @@
+﻿  main.c
+C:\한성대학교 2학년\ProgramingLab-O\Code-Practice\2071129_termproject_ktjin\main.c(146,16): warning C4133: '함수': 'Node *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\한성대학교 2학년\ProgramingLab-O\Code-Practice\2071129_termproject_ktjin\main.c(735,10): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\한성대학교 2학년\ProgramingLab-O\Code-Practice\2071129_termproject_ktjin\main.c(1208,10): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+C:\한성대학교 2학년\ProgramingLab-O\Code-Practice\2071129_termproject_ktjin\main.c(342): warning C4715: 'bfs': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  2071129_termproject_ktjin.vcxproj -> C:\한성대학교 2학년\ProgramingLab-O\Code-Practice\2071129_termproject_ktjin\x64\Debug\2071129_termproject_ktjin.exe

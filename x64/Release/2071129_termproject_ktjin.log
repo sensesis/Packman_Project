@@ -1,0 +1,9 @@
+﻿  main.c
+C:\한성대학교 2학년\ProgramingLab-O\Code-Practice\2071129_termproject_ktjin\main.c(688,10): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\한성대학교 2학년\ProgramingLab-O\Code-Practice\2071129_termproject_ktjin\main.c(1168,10): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  3 of 41 functions ( 7.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  2071129_termproject_ktjin.vcxproj -> C:\한성대학교 2학년\ProgramingLab-O\Code-Practice\2071129_termproject_ktjin\x64\Release\2071129_termproject_ktjin.exe
